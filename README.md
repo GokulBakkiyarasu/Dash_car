@@ -2,9 +2,10 @@ Turtle Crossing Game using Python and OOPs Concepts
 
 This project is a simple implementation of the popular Turtle Crossing game using Python and Object-Oriented Programming (OOPs) concepts. The game involves helping a turtle cross a busy street by avoiding obstacles and collecting points. The user controls the turtle using the arrow keys on their keyboard.
 
+![Screenshot (7)](https://user-images.githubusercontent.com/87391223/229879989-122a7c47-9336-4ea4-9be8-cfe6213e1429.png)
 
 
-    Clone this repository to your local machine using git clone 
+    Clone this repository to your local machine using git clone https://github.com/GokulBakkiyarasu/Dash_car_Turtle_Crossing-game-using-python-.git
     Ensure that you have Python 3 installed.
     Install the turtle module, which is a standard Python library.
     Run python turtle_crossing_game.py to start the game.
